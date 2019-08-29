@@ -1,0 +1,85 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+
+#first }
+/* Style the header */
+header {
+  background-color:turquoise; padding: 50px;
+  text-align: left;
+  font-size: 35px;
+  color: white;
+}
+
+link {
+  border: 1px solid turquoise;
+  padding: 30px
+}
+
+hr {
+  border: 1px solid turquoise;
+}
+
+{ 
+    background-color: lightgray
+}
+Img {
+
+    text-align: left;
+    Border-radius: 2px solid turquoise;
+    }
+
+    h1 {font-family: Verdana; 
+        font-size: 30px;
+        border: 1px solid turquoise;
+        padding: 50px
+}
+    
+    p {
+        color: black; 
+    }
+
+    #Second {
+        background-color: azure;
+        font-size: 17px;
+        color: black;
+        font-family: arial;
+    }
+
+    #Third {
+       background-color: azure;
+       font-size: 17px;
+       color: black;
+       font-family: georgia;
+    }
+
+    #fourth {
+       background-color: azure;
+       font-size: 17px;
+       color: black;
+       font-family: arial;
+    }
+
+    #fifth {
+      background-color: azure;
+      font-size: 17px;
+      color: black;
+      font-family: verdana;
+    }
+   
+    #sixth {
+      background-color: azure;
+      font-size: 17px;
+      color: black;
+      font-family: arial;
+    }
